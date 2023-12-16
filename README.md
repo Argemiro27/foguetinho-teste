@@ -1,6 +1,6 @@
-Foguete Flutuante
+# Foguetinho Flutuante
 
-Este é um projeto simples, desenvolvido em HTML, CSS e JavaScript, e é perfeito para quem gosta de desafios e um pouco de sorte.
+Este é um projeto simples, desenvolvido em HTML, CSS e JavaScript (Vanilla), e é perfeito para quem gosta de desafios e um pouco de sorte.
 
 # Como Jogar
 Escolha o tempo desejado para a explosão do foguete clicando em uma das opções: 10, 15, 20, 25 ou 30 segundos.
